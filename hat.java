@@ -8,4 +8,6 @@ Hannah
 Ndip
 Bennedette
 Helen
+Pate
+Otang
 
